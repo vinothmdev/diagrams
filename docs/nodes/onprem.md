@@ -20,13 +20,16 @@ Node classes list of onprem provider.
 - **diagrams.onprem.analytics.Hive**
 - **diagrams.onprem.analytics.Metabase**
 - **diagrams.onprem.analytics.Norikra**
+- **diagrams.onprem.analytics.Presto**
 - **diagrams.onprem.analytics.Singer**
 - **diagrams.onprem.analytics.Spark**
 - **diagrams.onprem.analytics.Storm**
+- **diagrams.onprem.analytics.Superset**
 - **diagrams.onprem.analytics.Tableau**
 
 ## onprem.auth
 
+- **diagrams.onprem.auth.Boundary**
 - **diagrams.onprem.auth.BuzzfeedSso**
 - **diagrams.onprem.auth.Oauth2Proxy**
 
@@ -110,6 +113,10 @@ Node classes list of onprem provider.
 - **diagrams.onprem.gitops.Flagger**
 - **diagrams.onprem.gitops.Flux**
 
+## onprem.groupware
+
+- **diagrams.onprem.groupware.Nextcloud**
+
 ## onprem.iac
 
 - **diagrams.onprem.iac.Ansible**
@@ -145,6 +152,7 @@ Node classes list of onprem provider.
 - **diagrams.onprem.monitoring.Cortex**
 - **diagrams.onprem.monitoring.Datadog**
 - **diagrams.onprem.monitoring.Grafana**
+- **diagrams.onprem.monitoring.Newrelic**
 - **diagrams.onprem.monitoring.PrometheusOperator**
 - **diagrams.onprem.monitoring.Prometheus**
 - **diagrams.onprem.monitoring.Sentry**
@@ -154,6 +162,7 @@ Node classes list of onprem provider.
 
 ## onprem.network
 
+- **diagrams.onprem.network.Ambassador**
 - **diagrams.onprem.network.Apache**
 - **diagrams.onprem.network.Bind9**
 - **diagrams.onprem.network.Caddy**
@@ -201,6 +210,7 @@ Node classes list of onprem provider.
 
 ## onprem.security
 
+- **diagrams.onprem.security.Bitwarden**
 - **diagrams.onprem.security.Trivy**
 - **diagrams.onprem.security.Vault**
 

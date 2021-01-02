@@ -14,6 +14,7 @@ Node classes list of programming provider.
 - **diagrams.programming.framework.Flask**
 - **diagrams.programming.framework.Flutter**
 - **diagrams.programming.framework.Laravel**
+- **diagrams.programming.framework.Micronaut**
 - **diagrams.programming.framework.Rails**
 - **diagrams.programming.framework.React**
 - **diagrams.programming.framework.Spring**
@@ -39,5 +40,6 @@ Node classes list of programming provider.
 - **diagrams.programming.language.R**
 - **diagrams.programming.language.Ruby**
 - **diagrams.programming.language.Rust**
+- **diagrams.programming.language.Scala**
 - **diagrams.programming.language.Swift**
 - **diagrams.programming.language.Typescript**, **TypeScript** (alias)
